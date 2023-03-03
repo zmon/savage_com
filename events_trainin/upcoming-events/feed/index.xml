@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Upcoming Events</title>
+	<atom:link href="/events_trainin/upcoming-events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Strategies to recover from stress quickly</description>
+	<lastBuildDate>Thu, 03 Nov 2016 16:41:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.29</generator>
+	<item>
+		<title>By: Jerry Sheridan</title>
+		<link>/events_trainin/upcoming-events/?#comment-12671</link>
+		<dc:creator><![CDATA[Jerry Sheridan]]></dc:creator>
+		<pubDate>Sat, 03 Aug 2013 18:41:05 +0000</pubDate>
+		<guid isPermaLink="false">/?#comment-12671</guid>
+		<description><![CDATA[At this point we are focusing on this blog and a book we are writing on resilience. We still do workshops, but, for now we are just doing them in response to invitations.
+
+We are located in Kansas City, Missouri.
+
+Jerry Sheridan]]></description>
+		<content:encoded><![CDATA[<p>At this point we are focusing on this blog and a book we are writing on resilience. We still do workshops, but, for now we are just doing them in response to invitations.</p>
+<p>We are located in Kansas City, Missouri.</p>
+<p>Jerry Sheridan</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Stephanie Russell</title>
+		<link>/events_trainin/upcoming-events/?#comment-12586</link>
+		<dc:creator><![CDATA[Stephanie Russell]]></dc:creator>
+		<pubDate>Sun, 14 Jul 2013 15:31:31 +0000</pubDate>
+		<guid isPermaLink="false">/?#comment-12586</guid>
+		<description><![CDATA[Hello, 
+Are you still providing resiliency trainings, and if so what is your location and cost of the training. 
+Thank you for your time and help in advance, 
+Stephanie Russell]]></description>
+		<content:encoded><![CDATA[<p>Hello,<br />
+Are you still providing resiliency trainings, and if so what is your location and cost of the training.<br />
+Thank you for your time and help in advance,<br />
+Stephanie Russell</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
